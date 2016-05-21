@@ -31,11 +31,11 @@ return array(
      * Database config
      *
      */
-    'hostname' => 'cloud.myoffice.rs',
-    'username' => 'petbook',
-    'password' => 'pet123book',
-    'database' => 'panauto',
-    'port' => '9200',
+    'hostname' => 'cloud.test.rs',
+    'username' => 'root',
+    'password' => '123123',
+    'database' => 'diwanee_test',
+    'port' => '',
     'charset' => 'UTF-8',
 );
 
