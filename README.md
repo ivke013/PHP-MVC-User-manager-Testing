@@ -14,6 +14,8 @@ Tokom izrade ovog projekta korišćene su sledeće tehnologije:
 
 4. Css
 
+5. JavaScript(jQuery)
+
 ## Instalacija
 Ekstaratujte arhuvu na lokalnom serveru. Promenite podatke u app/application.config.php fajli kao sto su site_url i podatke za bazu.
 U direktorijumu schema se nalazi baza podataka koja je koriscena za ovaj projekat. Importujte je putem phpmyadmin, workbench, sqlyog...
