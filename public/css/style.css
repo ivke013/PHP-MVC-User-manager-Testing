@@ -1,0 +1,14 @@
+.ban {  color: red;  }
+.ok {  color: green;}
+
+.badge-default, .badge-red {
+    font-weight: normal;
+}
+.badge-red {
+    background-color: darkred !important;
+    font-weight: normal;
+}
+.badge-default {
+    background-color: #00415d !important;
+}
+.required {color: red}

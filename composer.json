@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "name": "Ivan Stojmenovic Ivke",
+      "email": "office.stojmenovic@gmail.com",
+      "homepage": "http://www.google.com",
+      "role": "Developer"
+    }
+  ],
+  "license": "MIT",
+
+
+  "autoload": {
+    "psr-4": {
+      "Diwanee\\Controller\\": "app/controller/",
+      "Diwanee\\Model\\": "app/model/",
+      "Diwanee\\Library\\": "library/"
+     }
+   }
+
+ }
