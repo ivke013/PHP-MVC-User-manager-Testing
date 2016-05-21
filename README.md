@@ -1,12 +1,12 @@
 <snippet>
   <content>
 # Simple MVC User Manager
-Ovaj projekat je napravljen kao rad za konkurs za posao. Kod nije prosao nijedan Unit test tako da se smatra kao nebezbednim za komercijalnu upotrebu.
+Ovaj projekat je napravljen kao rad za konkurs za posao. Kod nije prosao nijedan Unit test tako da se smatra kao nebezbednim za komercijalnu upotrebu. Izrada celokupnog projekta je traja oko 4 do 5 sati.
 
 ## Tehnologije
 Tokom izrade ovog projekta korišćene su sledeće tehnologije:
 
-1. PHP (Mvc, factory i registry patterns)
+1. PHP (Mvc, factory, registry i front controller patterns)
 
 2. MySql
 
